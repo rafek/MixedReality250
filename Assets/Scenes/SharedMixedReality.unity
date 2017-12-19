@@ -152,6 +152,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 114089264199067956, guid: 0fc628c0aaea3a149bc2e7e3ac97990f,
+        type: 2}
+      propertyPath: EnableCollaboration
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0fc628c0aaea3a149bc2e7e3ac97990f, type: 2}
   m_IsPrefabParent: 0
